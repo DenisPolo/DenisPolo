@@ -9,7 +9,7 @@ I am a Java Developer
 
 - :zap: If you want me to ask something - write me :point_down:
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Я-yandex-yellow)](mailto:DAPolo84@yandex.ru)
+- :mailbox: How to reach me: [![](https://img.shields.io/badge/Я-yandex-yellow)](mailto:DAPolo84@yandex.ru), [![](https://img.shields.io/badge/T-Telegram-blue)](https://t.me/PolozhaevDA) 
 
 <h2 align="left">Languages and tools</h2>
 
