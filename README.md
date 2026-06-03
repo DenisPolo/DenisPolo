@@ -35,4 +35,4 @@ I am a Java Developer
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPolo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPolo&layout=compact&theme=vision-friendly-dark)](https://github.com/DenisPolo/github-readme-stats)
